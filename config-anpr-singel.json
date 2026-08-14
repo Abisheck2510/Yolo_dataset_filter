@@ -1,0 +1,23 @@
+{
+    "output": "workspace",
+    "label_txt": "label.txt",
+    "images": "images",
+    "annotation": "annotation",
+    "input":{
+        "key1": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/varanasi/numberplate",   
+            "sample": 100
+        }
+
+    },
+    "class_names":{
+
+        "license_plate": ["object","number","plate"],
+        "helmet": ["n"],
+        "no_helmet": ["n"],
+        "seat_belt": ["yes"],
+        "no_seat_belt": ["no"],
+        "triple_riding": ["n"]
+        
+    }
+}

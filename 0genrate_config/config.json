@@ -1,0 +1,74 @@
+{
+  "output": "workspace",
+  "label_txt": "label.txt",
+  "images": "images",
+  "annotation": "annotation",
+  "input": {
+    "key1": {
+      "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_8",
+      "sample": 100
+    }
+  },
+  "class_names": {
+    "person": [
+      "person"
+    ],
+    "two_Wheeler": [
+      "Two Wheeler"
+    ],
+    "auto_rickshaw": [
+      "auto_rickshaw"
+    ],
+    "car": [
+      "car"
+    ],
+    "lcv": [
+      "lcv"
+    ],
+    "Eicher": [
+      "Eicher",
+      "Echier",
+      "e"
+    ],
+    "van": [
+      "van"
+    ],
+    "mini_bus": [
+      "mini bus"
+    ],
+    "bus": [
+      "bus"
+    ],
+    "Truck_2Axle": [
+      "Truck_2Axle",
+      "2"
+    ],
+    "Truck_3Axle": [
+      "Truck_3Axle",
+      "3"
+    ],
+    "Truck_4Axle": [
+      "Truck_4Axle",
+      "4"
+    ],
+    "Truck_6Axle": [
+      "Truck_6Axle",
+      "6"
+    ],
+    "multi_axle": [
+      "multi axle"
+    ],
+    "others_earth_mover": [
+      "others(earth mover)"
+    ],
+    "tracktor": [
+      "tracktor"
+    ],
+    "tracktor_trailer": [
+      "tracktor_trailer"
+    ],
+    "cycle": [
+      "cycle"
+    ]
+  }
+}

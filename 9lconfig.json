@@ -1,0 +1,383 @@
+{
+    "output": "workspace",
+    "label_txt": "label.txt",
+    "images": "images",
+    "annotation": "annotation",
+    "input":{
+        "key1": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/aavinasi", 
+            "sample": 100
+        },
+        "key2": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/ANNA_NAGAR",
+            "sample": 100
+        },
+        "key3": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/coco/COCO_Dataset_Limited_Person",
+            "sample": 100
+        },              
+        "key4": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/coco/overall",
+            "sample": 100
+        },
+        "key5": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/COCODATASET_INDIAN/coco",
+            "sample": 100
+        },
+        "key5": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/cosai_office",
+            "sample": 100
+        },
+        "key6": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Dehradun/DARADN2/daradun",
+            "sample": 100
+        },
+        "key7": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Dehradun/DARADN2/Day",
+            "sample": 100
+        },
+        "key8": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Dehradun/DARADN2/day_1",
+            "sample": 100
+        },
+        "key9": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Dehradun/DARADN2/Night",
+            "sample": 100
+        },
+        "key10": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Dehradun/DARADN3",
+            "sample": 100
+        },  
+        "key11": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Dehradun/DARADN4",
+            "sample": 100
+        },
+        "key12": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Dehradun/daradun_yamunathri",
+            "sample": 100
+        },
+        "key13": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Dehradun/DARADN4_partial",
+            "sample": 100
+        },  
+        "key14": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/google_Dataset",
+            "sample": 100
+        },  
+        "key15": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/hosur_and_T_AK/hosur",
+            "sample": 100
+        },
+        "key16": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/hosur_and_T_AK/T_AK",
+            "sample": 100
+        },
+        "key17": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/iit/iit_Bhuvaneswar",
+            "sample": 100
+        }, 
+        "key18": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/iit/iit_Square",
+            "sample": 100
+        },    
+        "key19": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/jn_Dataset_Night",
+            "sample": 100
+        },  
+        "key20": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/jn_Dataset1_Day",
+            "sample": 100
+        },  
+        "key21": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/jn_Dataset1_Night",
+            "sample": 100
+        },  
+        "key22": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/kakapayalam",
+            "sample": 100
+        },
+        "key23": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/koodal_nagar",
+            "sample": 100
+        },
+        "key24": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/Kumudipoondi",
+            "sample": 100
+        },
+        "key25": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/lnt/Maliya",
+            "sample": 100
+        },  
+        "key26": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/lnt/Maliya_2",
+            "sample": 100
+        },  
+        "key27": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/lntmalvan",
+            "sample": 100
+        },
+        "key28": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_BW",
+            "sample": 100
+        },
+        "key29": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/anpr_othakadai/othakadai",
+            "sample": 100
+        },
+        "key30": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/chekkanurani/chekkanurani_data_set",
+            "sample": 100
+        },
+        "key31": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/chekkanurani/chekkanurani_Tollz",
+            "sample": 100
+        },  
+        "key32": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/chennai_avm",
+            "sample": 100
+        },
+        "key33": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/dataset_Roundtana",
+            "sample": 100
+        },
+        "key34": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/kattapulinagar",
+            "sample": 100
+        },
+        "key35": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/maatuthavani_side",
+            "sample": 100
+        },
+        "key36": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/madurai_anpr",
+            "sample": 100
+        },
+        "key37": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/madurai_next",
+            "sample": 100
+        },
+        "key38": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/nagamalai",
+            "sample": 100
+        },
+        "key39": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/NH_44_10_mm",
+            "sample": 100
+        },
+        "key40": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/othakadai_data_set",
+            "sample": 100
+        },
+        "key41": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/othakadai_data_set_in",
+            "sample": 100
+        },  
+        "key42": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/othakadai_data_set_out",
+            "sample": 100
+        },  
+        "key43": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/palamedu",
+            "sample": 100
+        },  
+        "key44": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/side_view",
+            "sample": 100
+        },  
+        "key45": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/valanthur",
+            "sample": 100
+        },
+        "key46": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/viraganoor",
+            "sample": 100
+        },
+        "key47": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/virganoor_night",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/madurai_dataset/vit_Severakottai",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_2",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_3",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_4",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_4",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_6",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_7",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_8",
+            "sample": 100
+        },
+        "key48": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/namakal/namakal_abi",
+            "sample": 100
+        },
+        "key49": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/parking",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway_2",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway/railway_1",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway/railway_2",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway/railway_lc_12/dataset_1",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway/railway_lc_12/dataset_2",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway/railway_lc_12/dataset_3",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway/railway_lc_12/dataset_background",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway/railway_lc_16",
+            "sample": 100
+        },
+        "key50": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/railway/railway_lc_18",
+            "sample": 100
+        },
+        "key51": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/RVTL",
+            "sample": 100
+        },
+        "key52": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/RVTL/RVTL_2",
+            "sample": 100
+        },
+        "key52": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/RVTL/RVTL_3",
+            "sample": 100
+        },
+        "key53": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/RVTL/RVTL_4_aug",
+            "sample": 100
+        },
+        "key54": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/RVTL/RVTL_5_new",
+            "sample": 100
+        },
+        "key55": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/RVTL_RSH/day",
+            "sample": 100
+        },
+        "key56": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/RVTL_RSH/Frame_fog",
+            "sample": 100
+        },
+        "key57": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/RVTL_RSH/night",
+            "sample": 100
+        },
+        "key58": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/saksham_dataset/DAY",
+            "sample": 100
+        },
+        "key59": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/saksham_dataset/DAY_1",
+            "sample": 100
+        },
+        "key60": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/saksham_dataset/DAY_2",
+            "sample": 100
+        },
+        "key61": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/saksham_dataset/N8",
+            "sample": 100
+        },
+        "key62": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/saksham_dataset/sowil_final",
+            "sample": 100
+        },
+        "key63": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/thoppur_dataset/gantrry",
+            "sample": 100
+        },
+        "key64": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/thoppur_dataset/Thoppur_night",
+            "sample": 100
+        },
+        "key65": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/thoppur_dataset/thopur_salem_bangalore_day_img",
+            "sample": 100
+        },
+        "key65": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/varanasi/new",
+            "sample": 100
+        },
+        "key65": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/varanasi/new_2",
+            "sample": 100
+        },
+        "key65": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/varanasi/new_3",
+            "sample": 100
+        },
+        "key66": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/youtube",
+            "sample": 100
+        },
+        "key67": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/YOUTUBE_DATASET/Tractor",
+            "sample": 100
+        },
+        "key68": {
+            "dir": "/datavolume/files/dataset/cosai_dataset/YOUTUBE_DATASET/Youtube_Random_Frames",
+            "sample": 100
+        }         
+    },
+    "class_names":{
+        "auto_rickshaw": ["auto_rickshaw"],
+        "bus": ["bus_3Axle","school _bus"],
+        "car": ["c1","c1","c2","c3","c4","c5","c6","c7","c8","c1."],
+        "others_earth_mover": ["earthvehicle","others(earth)","others(earth"],
+        "lcv": ["l1","l2","l3","l4","l5","l6","L2"],
+        "mini_bus": ["minibusM1","minibusM2","mini bus","mini_bus","mini"],
+        "two_Wheeler": ["Two","Tow","Two Wheeler","two Wheeler","motor_cycle","motor_cycle","motorcycle"],
+        "multi_axle": ["tl1","tl2","tl3","multi"],
+        "Truck_3Axle": ["3","tmav_3axle"],
+        "Truck_4Axle": ["4","4l","tmav_4axle"],
+        "Truck_6Axle": ["6","tmav_6axle"],
+        "tracktor": [],
+        "tracktor_trailer": ["tractor_wot","tractor_wt"],
+        "Truck_2Axle": ["ttav2,truck_tav","2","ttav2","ttav2."], 
+        "van": ["v1","v2","v3","v6"],
+        "Eicher": ["Foreign truck"],
+        "person": ["Foreign truck"]
+    }
+}

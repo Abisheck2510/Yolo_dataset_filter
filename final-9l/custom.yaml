@@ -1,0 +1,22 @@
+train: /datavolume/Servershare/Abi/yolo11_training/final/train.txt  
+val: /datavolume/Servershare/Abi/yolo11_training/final/val.txt
+nc: 18
+names:
+- person
+- two_Wheeler
+- auto_rickshaw
+- car
+- lcv
+- Eicher
+- van
+- mini_bus
+- bus
+- Truck_2Axle
+- Truck_3Axle
+- Truck_4Axle
+- Truck_6Axle
+- multi_axle
+- others_earth_mover
+- tracktor
+- tracktor_trailer
+- cycle
